@@ -37,7 +37,7 @@ I am a Front-End Web Developer based in Cambridge, UK, with a strong passion for
 
 - 🥇 In 2023, I secured a front-end development internship with PolicyCON, an award-winning company dedicated to transforming the think-tank industry.
 - 🏆 In 2019, I was awarded 2nd place for outstanding user empathy, conceptual thinking and design quality in delivering my team's solution to a design brief. Awarded by Cambridge Consultants.
-- 🌟 During my final year of undergraduate studies in 2022, I independently designed, developed, and published a website for Nottingham Trent University Design Industries (NTUDI) '22, while balancing the demands of my final year project.
+- 🌟 During my final year of undergraduate studies in 2022, I led the website team, designed, developed, and published a website for Nottingham Trent University Design Industries (NTUDI) '22, while balancing the demands of my final year project.
 
 ## 🔗 Connect with Me
 
