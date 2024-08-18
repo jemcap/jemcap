@@ -5,7 +5,6 @@
 I am a Front-End Web Developer based in Cambridge, UK, with a strong passion for digital creativity and problem-solving through code. With a background in Product Design, I bring a keen eye for detail and a deep commitment to user-centric design and development. I find web development deeply rewarding as it allows me to transform concepts into functional, user-friendly applications. The ability to contribute to projects that enhance user experiences and make a positive impact online is what drives my commitment to this field.
 
 - 🌱 I’m currently learning **React**, **Express.js**, **Next.js**, **TypeScript**, **MongoDB**
-- 🔭 I’m currently working on **Shuacap Media — my videography portfolio/business website**
 - 👯 I’m looking to collaborate on a **Full-Stack Web Application for an independent Gym business**
 - 💻 Connect with me!: **https://www.linkedin.com/in/joshuaecapito/**
 - 📫 Reach out to me!: **joshuaecapito22@gmail.com**
