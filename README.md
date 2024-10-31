@@ -4,11 +4,10 @@
 
 I am a Front-End Web Developer based in Cambridge, UK, with a strong passion for digital creativity and problem-solving through code. With a background in Product Design, I bring a keen eye for detail and a deep commitment to user-centric design and development. I find web development deeply rewarding as it allows me to transform concepts into functional, user-friendly applications. The ability to contribute to projects that enhance user experiences and make a positive impact online is what drives my commitment to this field.
 
-- 🌱 I’m currently learning **React**, **Express.js**, **Next.js**, **TypeScript**, **React Three Fiber(R3F)/Three.js and GSAP**
-- 👯 I’m looking to collaborate on a **Full-Stack Web Application for an independent Gym business**
+- 🌱 I’m currently learning **The MERN Stack**
 - 💻 Connect with me!: **https://www.linkedin.com/in/joshuaecapito/**
 - 📫 Reach out to me!: **joshuaecapito22@gmail.com**
-- 👨🏻‍💻 Check out my Portfolio: **https://joshuacapito.netlify.app/**
+- 👨🏻‍💻 Check out my Portfolio: **[https://joshcapito.dev](https://joshcapito.dev/)**
 
 ## 🛠️ Tech Stack
 
